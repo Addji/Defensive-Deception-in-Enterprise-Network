@@ -1,10 +1,13 @@
-## Welcome to GitHub Pages
+# Defensive Deception in Enterprise Network
 
-You can use the [editor on GitHub](https://github.com/Addji/muoral/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Student: Mu Zhu (mzhu5@ncsu.edu)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Advisor: Munindar P. Singh (mpsingh@ncsu.edu )
 
-### Markdown
+### Commitee:
+- Munindar P. Singh
+- William Enck
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
