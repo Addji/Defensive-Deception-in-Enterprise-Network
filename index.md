@@ -4,9 +4,8 @@ Student: Mu Zhu (mzhu5@ncsu.edu)
 
 Advisor: Munindar P. Singh (mpsingh@ncsu.edu)
 
-### Commitee:
+## Commitee:
 - Munindar P. Singh
 - William Enck
 
-
-##Abstract
+Abstract
