@@ -26,6 +26,6 @@ To assist the defender in making the optimal strategy, we model the interaction 
 
 In this proposal, we discuss the basic concepts and thoughts about defensive deception. We improve the current honeyfile system with reliable and practical designs.
 
-[First Version](./first_proposal)
+[First Version](../first_version)
 
 
