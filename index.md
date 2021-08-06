@@ -12,6 +12,8 @@ Exam time: August 20th, 2021, 3:00pm - 5:00pm on Zoom
 - Rudra Dutta
 - William Enck
 
+<hr />
+
 ### Abstract
 
 Defensive deception attracts much attention from research communities. Unlike traditional cybersecurity techniques, such as firewall and intrusion detection systems (IDS), defensive deception lets the defender participate in attack processes to lure and mislead the adversaries. Therefore, defensive deception shows effectiveness when detecting or mitigating stealthy attacks, such as malicious reconnaissance and insider threats.
@@ -26,8 +28,9 @@ To assist the defender in making the optimal strategy, we model the interaction 
 
 In this proposal, we discuss the basic concepts and thoughts about defensive deception. We improve the current deception system with reliable and practical designs. We adopt game theory and deep reinforcement learning for assisting the defender in searching for the optimal decision.
 
-
+<hr />
 ### Proposal:
+
 [Version 1](./oral_proposal/first_version.pdf)
 
 ### Slide:
