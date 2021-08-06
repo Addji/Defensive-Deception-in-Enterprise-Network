@@ -26,7 +26,9 @@ To assist the defender in making the optimal strategy, we model the interaction 
 
 In this proposal, we discuss the basic concepts and thoughts about defensive deception. We improve the current deception system with reliable and practical designs. We adopt game theory and deep reinforcement learning for assisting the defender in searching for the optimal decision.
 
+
+### Proposal:
 [Version 1](./oral_proposal/first_version.pdf)
 
-
+### Slide:
 
