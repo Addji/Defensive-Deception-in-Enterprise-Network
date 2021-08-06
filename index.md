@@ -4,6 +4,8 @@ Student: Mu Zhu (mzhu5@ncsu.edu)
 
 Advisor: Munindar P. Singh (mpsingh@ncsu.edu)
 
+Exam time: August 20th, 2021, 3:00pm - 5:00pm on Zoom
+
 ## Commitee:
 - Munindar P. Singh (Chair)
 - Khaled Abdel Harfoush (GSR)
@@ -23,3 +25,6 @@ We propose a novel honeyfile system that relies on decentralize deployment and c
 To assist the defender in making the optimal strategy, we model the interaction between the attacker, the defender, and the users with the Bayesian game. We expand this work with deep reinforcement learning (DRL) and propose a more complicated environment (e.g., multiple users and attackers involved).
 
 In this proposal, we discuss the basic concepts and thoughts about defensive deception. We improve the current honeyfile system with reliable and practical designs.
+
+
+
