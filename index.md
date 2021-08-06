@@ -24,6 +24,6 @@ In this proposal, we discuss the basic concepts and thoughts about defensive dec
 
 [First Version](./oral_proposal/first_version.pdf)
 
-<a href="Addji.github.io/oral_proposal/first_version.pdf" target="_blank">Version 1</a>
+<a href="addji.github.io/oral_proposal/first_version.pdf" target="_blank">Version 1</a>
 
 
