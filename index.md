@@ -31,7 +31,7 @@ In this proposal, we discuss the basic concepts and thoughts about defensive dec
 <hr />
 ### Proposal:
 
-[Version 1](./oral_proposal/first_version.pdf)
+[Version 1 (Aug 6 th, 2021)](./oral_proposal/first_version.pdf)
 
 ### Slide:
 
