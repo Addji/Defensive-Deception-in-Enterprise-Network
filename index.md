@@ -33,6 +33,7 @@ On the other side, we propose honey traffic, which represents generated fake net
 In this proposal, we discuss the basic concepts and thoughts about defensive deception. We improve the current deception system with reliable and practical designs. We adopt game theory and machine learning for assisting the defender in searching for the optimal solution.
 
 <hr />
+
 ### Proposal:
 
 [Version 1 (Aug 6 th, 2021)](./oral_proposal/first_version.pdf)
