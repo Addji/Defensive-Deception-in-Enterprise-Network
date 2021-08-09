@@ -1,8 +1,3 @@
----
-layout: null
----
-
-## Defensive Deception in Enterprise Network
 
 Student: Mu Zhu (mzhu5@ncsu.edu)
 
