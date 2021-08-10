@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 Student: Mu Zhu (mzhu5@ncsu.edu)
 
