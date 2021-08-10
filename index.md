@@ -25,7 +25,6 @@ Although defensive deception is a promising approach, it has shortcomings and br
 To better understand how defensive deception works, we first investigate different deception techniques and analyze their (dis)advantages. We survey current game theory (GT) and machine learning (ML) based defensive deception research and discuss them by considering 1) what GT/ML is used, 2) what kind of attack is discussed, 3) what defensive deception technique is proposed, and 4) how the authors simulate or evaluate their schemes.
 
 As a popular defensive deception technique, honeyfile systems are commonly used to detect stealth threats, such as insider attacks. Although deployed honeyfiles uncover attackers, they disturb legitimate users and generate false-positive alarms, which may confuse administrators. To fill this gap, we propose a novel honeyfile system, named Mee, that relies on decentralized deployment and centralized control. 
-%we involve regular users to evaluate the impacts of honeyfiles on users. 
 This research includes two incremental components. First, we propose Mee structure and model the interaction between the attacker, the defender, and the users with the Bayesian game to assist the defender in making the optimal strategy. 
 Then, we expand this work with deep reinforcement learning (DRL) and adopt a more complicated environment (e.g., multiple users and attackers involved) to increase the realization.
 Our research objective is to increase the effectiveness of honeyfile and reduce false positive alarms from regular users.
