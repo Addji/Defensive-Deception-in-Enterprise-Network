@@ -36,6 +36,7 @@ Overall, this dissertation seeks to improve defensive deception by investigating
 <hr />
 
 ### Proposal:
+- [Version 3 (Aug 12 th, 2021)](./oral_proposal/third_version.pdf)
 - [Version 2 (Aug 9 th, 2021)](./oral_proposal/second_version.pdf)
 - [Version 1 (Aug 6 th, 2021)](./oral_proposal/first_version.pdf)
 
