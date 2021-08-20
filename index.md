@@ -11,8 +11,10 @@ Exam time: August 20th, 2021, 3:00pm - 5:00pm on Zoom
 ## Commitee:
 - Munindar P. Singh (Chair)
 - Khaled Abdel Harfoush (GSR)
+- Jin-Hee Cho (External Member)
 - Rudra Dutta
 - William Enck
+
 
 <hr />
 
